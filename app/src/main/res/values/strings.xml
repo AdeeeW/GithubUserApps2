@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GithubUserApps2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_not_found">Name Not Found</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="angka">0</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="input_github_username">Input Github Username...</string>
+    <string name="type">Type</string>
+    <string name="search_username">Search Username</string>
+</resources>
